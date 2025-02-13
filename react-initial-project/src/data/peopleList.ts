@@ -1,4 +1,4 @@
-import { Person } from "@/types/Person";
+import { Person } from "@/types/Student";
 
 export const peopleList: Person[] = [
     { id: 1, name: 'Rafael', profession: 'PO'},
